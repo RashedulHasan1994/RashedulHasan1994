@@ -21,14 +21,14 @@
 
 I am a Full Stack Developer with a huge love for PHP, Laravel, JavaScript, Vue.js, jQuery, RESTful API, RDBMS, Docker and System Architecture. 
 
-- 🔭 &nbsp; I’m currently learning Python and ReactJs
+- 🔭 &nbsp; I’m currently learning ReactJs
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Backend and front-end web developer.
 - ✍️ &nbsp; Trying out latest design trends as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; PHP | Perl | JavaScript | HTML | CSS
+- 💻 &nbsp; PHP | Perl | Python | JavaScript | HTML | CSS
 -  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Laravel | CodeIgniter | YII | VueJS | jQuery 
 - 🛢 &nbsp; PgSQL | MySQL | Docker
 - 🔧 &nbsp; Visual Studio code | NetBeans | PyCharm | Git
